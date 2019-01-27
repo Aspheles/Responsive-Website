@@ -1,0 +1,68 @@
+  body {
+       
+    }
+    .main-page {
+        /* margin-top: 30px; */
+        text-align: center;
+        position: absolute;
+    }
+    .banner_page {
+        text-align: center;
+        margin-top: 70px;
+        max-width: 100%;
+        height: 200px;
+        width: 100%;
+
+    }
+
+    .main-page-content {
+        margin-top: 280px;
+        text-align: center;
+    }
+
+    .serviceone {
+        
+        height: 80px;
+        width: 80%;
+        background-color: white;
+        border-radius: 2px;
+        margin: 0 auto;
+        color: black;
+        text-align: center;
+        box-shadow: 3px 3px 3px 3px;
+        
+        
+        
+    }
+
+    .serviceone h1{
+        text-align-last: center;
+        margin: auto 0;
+        line-height: 80px;
+        color: bisque;
+        
+        
+    }
+
+    .servicetwo {
+        background: url("images/services_mounting.jpg");
+        margin: 0 auto;
+        margin-top: 30px;
+        width: 90%;
+        height: 200px;
+        border-radius: 3px;
+        background-repeat: no-repeat;
+        max-width: 100%;
+        text-align: center;
+
+    }
+
+    .servicethree {
+        background: url("images/services_mounting.jpg");
+        background-repeat: no-repeat;
+        margin: 0 auto;
+        margin-top: 30px;
+        width: 90%;
+        height: 200px;
+        border-radius: 3px;
+    }
